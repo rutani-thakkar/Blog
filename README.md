@@ -24,17 +24,17 @@ A simple Ruby class, `StringCalculator`, designed to sum numbers from a string i
 
 1. Clone the repository:
 
-  ```bash
-  git clone https://github.com/rutani-thakkar/string-calculator.git
-  cd string-calculator
+   ```bash
+   git clone https://github.com/rutani-thakkar/string-calculator.git
+   cd string-calculator
 
 2. Install the dependencies:
 
-  ```bash
-  bundle install
+   ```bash
+   bundle install
 
 3. Run Test cases
 
-  ```bash
-  bundle exec rspec
+   ```bash
+   bundle exec rspec
 
