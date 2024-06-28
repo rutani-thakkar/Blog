@@ -29,10 +29,12 @@ A simple Ruby class, `StringCalculator`, designed to sum numbers from a string i
   cd string-calculator
 
 2. Install the dependencies:
+
   ```bash
   bundle install
 
 3. Run Test cases
+
   ```bash
   bundle exec rspec
 
